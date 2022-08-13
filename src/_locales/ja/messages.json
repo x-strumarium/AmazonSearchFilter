@@ -1,0 +1,8 @@
+﻿{
+    "ext_name": {
+        "message": "Amazon.co.jp マーケットプレイス商品 除外"
+    },
+    "ext_desc": {
+        "message": "Amazonの検索結果から、マーケットプレイスの商品を自動的に除外します。"
+    }
+}
